@@ -1,0 +1,26 @@
+#page {
+}
+
+
+.row {
+    display: flex;
+    width: 900px;
+    height: auto;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+.col-4 {
+    width: 33%;
+}
+
+.dice {
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    color: blue;
+}
